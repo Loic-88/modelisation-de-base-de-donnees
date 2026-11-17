@@ -16,4 +16,10 @@
 
 # Atelier
 
-- Création des tables "Animal", "Species", "Breeds" et "Adopter".
+- Création d'un schéma MCD (Modèle conceptuel de données) avec la méthode Merise sur Excalidraw.
+  - Création des entités "Animal", "Species", "Breeds" et "Adopter".
+  - Mise en relation entre les différentes entités avec leurs cardinalités
+
+- Création d'un schéma MLD (Modèle logique de données) avec la méthode Merise sur Excalidraw.
+  - Analyse des relations entre les différentes entités (N-1 dans ces cas précis).
+  - Création des clés étrangères dans les entités concernées.
