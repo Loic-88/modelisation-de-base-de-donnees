@@ -23,3 +23,4 @@
 - Création d'un schéma MLD (Modèle logique de données) avec la méthode Merise sur Excalidraw.
   - Analyse des relations entre les différentes entités (N-1 dans ces cas précis).
   - Création des clés étrangères dans les entités concernées.
+  - Création de la table intermédiaire "Adoption".
